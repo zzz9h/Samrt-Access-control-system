@@ -1,5 +1,5 @@
 # Samrt-Access-control-system
-base on Raspberry Pi 4b
+base on Raspberry Pi 4b.Through local face detection, the detected faces are transferred to Baidu Cloud for face database search.
 
 ### HowTo
 how to build ncnn library on Raspiberry pi

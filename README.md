@@ -1,8 +1,8 @@
 # Samrt-Access-control-system
-base on Raspberry Pi 4b.Through local face detection, the detected faces are transferred to Baidu Cloud for face database search.
+Base on Raspberry Pi 4b.Through local face detection, the detected faces are transferred to Baidu Cloud for face database search.
 
 ### HowTo
-how to build ncnn library on Raspiberry pi
+How to build ncnn library on Raspiberry pi
 install opencv
 ``` shell
   sudo apt-get install python-opencv or pip3 install python-opencv
@@ -25,7 +25,8 @@ install baiduaip
 
 
 ###result
-email:2986627051@qq.com qq:2986627051 
+email:2986627051@qq.com 
+qq:2986627051 
 
 
 

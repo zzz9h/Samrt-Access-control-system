@@ -5,7 +5,7 @@ base on Raspberry Pi 4b
 how to build ncnn library on Raspiberry pi
 install opencv
 
-  install python-opencv
+  sudo apt-get install python-opencv or pip3 install python-opencv
 
 install baiduaip 
 

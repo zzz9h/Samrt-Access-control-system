@@ -20,6 +20,8 @@ install baiduaip
   python3 raspi.py
   
   
+  
+  ![Image text](https://raw.githubusercontent.com/zzz9h/Samrt-Access-control-system/master/example.png)
 
 
 

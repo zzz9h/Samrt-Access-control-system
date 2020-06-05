@@ -17,6 +17,8 @@ install baiduaip
 ```  
 ### HowRun
 ``` shell
+  git clone https://github.com/zzz9h/Samrt-Access-control-system.git
+  cd Samrt-Access-control-system
   python3 raspi.py
  ``` 
  ### Result 

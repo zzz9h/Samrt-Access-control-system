@@ -16,8 +16,8 @@ from email.mime.image import MIMEImage
 
 # 百度人识别API信息
 APP_ID = '19374140'
-API_KEY = 'GQOXTqNlgCrM9viRix8FHvZA'
-SECRET_KEY = 'Hlyk5BIWy9795yWQP37cI9PbyI82mRpH'
+API_KEY = '#################'
+SECRET_KEY = '######################'
 client = AipFace(APP_ID, API_KEY, SECRET_KEY)  # 创建客户端访问百度云
 # 图像编码方式base64
 IMAGE_TYPE = 'BASE64'
@@ -42,7 +42,7 @@ def smtp_email(log_info):
     # 2.登陆邮箱
     #连接对象.login(id,passwd)
     #密码-写授权码
-    con.login('2986627051@qq.com' , 'duvmzgwqxmtndcci')
+    con.login('2986627051@qq.com' , '##################')
     # 3.准备数据
     msg=MIMEMultipart()
     #设置邮件的主题
